@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.gutter-example .ant-row > div {
+  background: transparent;
+  border: 0;
+}
+.gutter-box {
+  background: #00A0E9;
+  padding: 5px 0;
+}
+
+
+.landing-hero {
+  background: url("http://via.placeholder.com/1400x500") #103d50 no-repeat !important;
+  min-height: 500px !important;
+  margin-bottom: 50px !important;
+  padding: 0px 0px !important;
+}
+
+.landing-hero-header1 {
+  font-size: 52px !important;
+  font-weight: bolder !important;
+  padding-top: 80px !important;
+
+}
+
+.landing-hero-header2 {
+  font-weight: 500 !important;
+}
+
+.color-white {
+  color: white !important;
+}
+
+.transbg {
+  min-height: 500px !important;
+  background: rgba(32,154,189,0.655);
+}
